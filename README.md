@@ -4,8 +4,11 @@ This project provides an analysis of Amazon sales data, focusing on product perf
 
 #### Features ####
  Sales Analysis: Detailed examination of sales data to identify trends and patterns.
+ 
  Product Analysis: Evaluation of product performance, including best-selling products and categories.
+
  Customer Analysis: Insights into customer behavior and purchasing patterns.
+
  Data Visualization: Interactive dashboards and reports created in Power BI for easy interpretation of data.
  
 #### Technologies Used ####
@@ -25,10 +28,12 @@ To run this project, you will need:
 
 #### Usage ####
  SQL Workbench: Use the provided SQL scripts to perform various analyses on the dataset.
+
  Power BI Desktop: Open the Power BI file (.pbix) to view interactive dashboards and gain insights.
 
 ##### Project Structure #####
  SQL Scripts/: Contains SQL scripts for data extraction and analysis.
+
  Power BI Reports/: Contains Power BI files for data visualization.
 
 ###### Contributing ######
@@ -37,5 +42,6 @@ To run this project, you will need:
 ###### Contact ######
 If you have any questions, feel free to reach out:
 
-GitHub: routhusaiganesh, 
+GitHub: routhusaiganesh
+
 Email: routhuganeshsai@gmail.com
