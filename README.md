@@ -10,7 +10,9 @@ This project provides an analysis of Amazon sales data, focusing on product perf
  
 #### Technologies Used ####
  SQL: Data extraction, transformation, and analysis using SQL Workbench.
+
  Power BI Desktop: Data visualization and dashboard creation.
+
  GitHub: Version control and project management.
 
 #### Getting Started ####
